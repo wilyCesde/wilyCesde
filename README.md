@@ -19,7 +19,7 @@ donde podrás encontrar más información sobre mi experiencia y habilidades.
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
 <p align="center">
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+C:\Users\willian\Desktop\wilyCesde\assets\angular.jpeg
 </p>
 
 <p align="center">
