@@ -19,7 +19,7 @@ donde podrás encontrar más información sobre mi experiencia y habilidades.
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
 <p align="center">
-C:\Users\willian\Desktop\wilyCesde\assets\angular.jpeg
+assets\angular.jpeg
 </p>
 
 <p align="center">
