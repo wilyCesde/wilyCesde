@@ -12,7 +12,7 @@ estoy estudiando Desarrollo de Software en la institución educativa CESDE y exp
 
 no dudes en contactarme. Me encanta hablar sobre este tema y siempre estoy dispuesto(a) a compartir conocimientos y experiencias.
 
-📫 Puedes contactarme a través de mi correo electrónico [wilyd2@hotmail.com] o a través de mi perfil de LinkedIn [linkedin.com/in/willianruiz1234], 
+📫 Puedes contactarme a través de mi correo electrónico [wilyd2@hotmail.com] o a través de mi perfil de LinkedIn [https://www.linkedin.com/in/willianruiz1234/], 
 donde podrás encontrar más información sobre mi experiencia y habilidades.
 
 ⚡ sabias: Cuando no estoy programando, me gusta pasar tiempo al aire libre haciendo dibujos y explorando nuevos lenguages.
