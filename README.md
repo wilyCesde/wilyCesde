@@ -20,4 +20,5 @@ donde podrás encontrar más información sobre mi experiencia y habilidades.
 ¡Gracias por visitar mi perfil de GitHub! 🚀
 <p align="center">
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 </p>
