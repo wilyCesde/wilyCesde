@@ -18,3 +18,6 @@ donde podrás encontrar más información sobre mi experiencia y habilidades.
 ⚡ sabias: Cuando no estoy programando, me gusta pasar tiempo al aire libre haciendo dibujos y explorando nuevos lenguages.
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
+<p align="center">
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+</p>
