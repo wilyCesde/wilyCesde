@@ -19,7 +19,7 @@ donde podrás encontrar más información sobre mi experiencia y habilidades.
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
 <p align="center">
-assets\angular.jpeg
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 </p>
 
 <p align="center">
